@@ -13,7 +13,7 @@ body {
 }
 
 .parentDiv{
-    height: 550px;
+    height: 500px;
     width: 420px;
     border: 1px solid black;
     display: flex;
